@@ -1,6 +1,5 @@
-# frontend
 
-Comvert sign language into text/speech
+Comvert sign language into text
 
 ## Getting Started
 
